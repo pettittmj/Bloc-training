@@ -1,0 +1,11 @@
+Mark,
+
+My real goal here in bloc is to hopefully help jump start me into becoming a developer. 
+Currently I dabble a little bit and can make minor changes and usually locate bugs 
+and fix them, but if i was asked to develop a new web app or page, that would be beyond 
+my realm. I come from a database background and before that I did sysadmin work. 
+I will try to give a lot of effort into this program because it appears to have great 
+worth to me.
+
+I look forward to our meeting tomorrow, 
+Matt
