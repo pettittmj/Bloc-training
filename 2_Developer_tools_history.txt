@@ -1,0 +1,9 @@
+   42  mkdir checkpoint_exercise
+   43  cd checkpoint_exercise
+   44  touch bloc_cl_checkpoint.txt
+   45  ls
+   46  notepad bloc_cl_checkpoint.txt
+   47  cat bloc_cl_checkpoint.txt
+   48  mv bloc_cl_checkpoint.txt cl_checkpoint.txt
+   49  cat cl_checkpoint.txt
+   50  history
