@@ -1,0 +1,12 @@
+Relative positioning acts in relation to other objects. 
+They will stack one below the other and the positioning of one does not affect 
+the position of the elements that follow after. Absolute positioned elements can 
+free float anywhere and not be affected by of affect other elements.
+
+The default browser box-sizing adjusts the overall width and height of an 
+element when you add properties like padding and borders.  Adding a border 
+will increase the overall size of the element by how ever many pixels you 
+set the border to.  Padding will also increase the size.
+Box-sizing: border-box allows the element to stay the same set size 
+while adding or modifying properties of the element.
+
